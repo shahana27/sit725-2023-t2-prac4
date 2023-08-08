@@ -1,0 +1,35 @@
+nav {
+    background-color: #f5c6c1;
+}
+
+.navbar-size {
+    background-color: #f5c6c1;
+    width: 95%;
+    margin: 0 auto;
+}
+
+.user-image-size {
+    height: 56px;
+    border-radius: 50%;
+    margin: 4px 0;
+}
+
+.main-body {
+    background-color: #fef2f2;
+    color: #b4abaa;
+    font-family: "Lucida Handwriting", cursive;
+}
+
+.materialboxed-image {
+    margin: 0 auto;
+    height: 400px;
+}
+
+.click-me-button {
+    background-color: #f5c6c1;
+    margin-top: 50px;
+}
+
+.click-me-button:hover {
+    background-color: #b4abaa;
+}
